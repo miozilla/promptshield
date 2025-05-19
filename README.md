@@ -1,4 +1,4 @@
-# promptshield
+# promptshield 🛡️
 promptshield : Content Safety # Moderate text/image content
 
 ## Content Safety Prompt Shields
